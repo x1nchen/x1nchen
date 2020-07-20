@@ -2,5 +2,5 @@
 
 ### Hello
 
-Developer now focusd on FinTech
+A developer now focusd on FinTech
 
