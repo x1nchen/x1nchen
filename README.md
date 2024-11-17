@@ -2,5 +2,5 @@
 
 ### Hello
 
-A beckend developer focused on FinTech.
+A beckend developer focused on AD system.
 
